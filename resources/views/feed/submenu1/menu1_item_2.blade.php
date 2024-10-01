@@ -1,0 +1,1 @@
+<div class="div_menu1_item_2 h-96 flex items-center justify-center d-none border">Content 2</div>
